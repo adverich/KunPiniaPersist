@@ -1,0 +1,2 @@
+# KunPiniaPersist
+Pinia persistence
